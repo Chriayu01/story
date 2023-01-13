@@ -1,2 +1,6 @@
 this is chapter 4
+<<<<<<< HEAD
+=======
+new chapter
+>>>>>>> new-chapter
 done
